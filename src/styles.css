@@ -53,3 +53,9 @@ li {
 .search-form {
   margin-bottom: 20px;
 }
+.source {
+  width: 100%;
+  position: fixed;
+  resize: none;
+  left: 70px;
+}
