@@ -69,5 +69,13 @@ li {
 
 .weather-app-wrapper {
   max-width: 600px;
-  margin: 20px auto;
+  margin: 30px auto;
 }
+
+.weather-temprature .active {
+  color: rgb(33, 33, 33);
+  cursor: default;
+}
+
+.weather-temprature .active:hover {
+  text-decoration: none;
